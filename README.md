@@ -34,5 +34,5 @@ To run a project:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/python-beginner-projects.git
+   git clone https://github.com/Satyanarayana-dasari/Python-Project.git
    cd python-beginner-projects
